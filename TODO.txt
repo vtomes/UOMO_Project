@@ -1,0 +1,5 @@
+více tříd
+multiplicita
+atributy+operace (15-20 operací)
+abstraktní třída
+agregace+kompozice (cv. 6)
